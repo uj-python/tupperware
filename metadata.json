@@ -1,0 +1,6 @@
+{
+  "name": "Tupperware",
+  "description": "A beautifully crafted sustainable e-commerce workspace featuring Japandi design patterns, a real interactive Slide to Add to Cart control, full specification peek modals, shopping baskets, addresses, checkout, and order tracking maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
